@@ -1,36 +1,14 @@
-# sudoku-server
+# Sudoku-Backend
 
-FIXME: description
+I developed this project in BKK/Hack with the help of [Veha Suwatphisankij](https://github.com/vehas). Thanks!
 
-## Installation
+### Installation
 
-Download from http://example.com/FIXME.
+Require [Leiningen](https://leiningen.org/) to run.
 
-## Usage
+Install the dependencies and start the server.
 
-FIXME: explanation
+```sh
+lein ring server
+```
 
-    $ java -jar sudoku-server-0.1.0-standalone.jar [args]
-
-## Options
-
-FIXME: listing of options this app accepts.
-
-## Examples
-
-...
-
-### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
-
-## License
-
-Copyright © 2018 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
